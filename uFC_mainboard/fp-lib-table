@@ -1,0 +1,4 @@
+(fp_lib_table
+  (lib (name "Library")(type "KiCad")(uri "/home/lucag/Documents/GitHub/uFC/hw_libs/Library.pretty")(options "")(descr ""))
+  (lib (name "modap_libs")(type "KiCad")(uri "${KIPRJMOD}/modap_libs.pretty")(options "")(descr ""))
+)
